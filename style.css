@@ -1,0 +1,74 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+   display: flex;
+      
+}
+.color-blue{
+    background-color: rgb(11, 140, 172);
+    color: white;
+}
+.menu-img{
+    width: 40%;
+    margin-left: 10%;
+}
+.menu{
+    margin-top: 24px;
+    margin-left: 14%;
+}
+.menu-bar{
+    height: 60px;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 16px;
+}
+
+.half-width{
+    width: 40%;
+    margin-left: 10%;
+}
+.half-width img{
+    width: 80%;
+}
+.intro{
+    margin-top: 2%;
+}
+.half-width a{
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 18px;
+}
+.about-me-text{
+    margin-left: 0%;
+}
+.title-blue{
+    text-align: center;
+    color: teal;
+}
+.my-work{
+    display: flex;
+    
+    margin-bottom: 10%;
+}
+.box{
+    width: 30%;
+    border: 2px solid teal;
+    border-radius: 8%;
+    text-align: center;
+    margin: 0px 30px;
+    padding: 0% 3%;
+}
+.shadow-box{
+    width: 30%;
+    box-shadow: 2px 8px 6px 6px teal;
+    border-radius: 8%;
+    margin: 0% auto;
+}
+footer p{
+    text-align: center;
+}
